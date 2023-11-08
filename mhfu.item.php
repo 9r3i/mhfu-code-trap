@@ -1,5 +1,59 @@
 <?php
 $ini="
+; book of combos
+1=2
+2=2
+3=2
+4=2
+5=2
+6=2
+; hide belt
+545=2
+325=1
+; hunting soul t-shirt
+941=5
+907=2
+897=3
+890=6
+; protection piercing
+204=9
+202=5
+348=4
+382=2
+; order rapier
+215=12
+198=5
+240=10
+; holy saber
+205=14
+258=6
+; guild knight saber
+216=5
+208=10
+259=10
+; conga greaves u
+445=5
+332=14
+296=2
+; conga vambraces u
+427=6
+443=4
+263=2
+; ninja sword
+736=4
+720=4
+746=4
+
+";
+
+/*
+
+==============================
+1150+550+950+9000+9000+70000+3400+2480+15000=111530z
+
+*/
+
+$ini="
 ; 42x Kelbi Horn
 327=42
 ; 64x Genprey Fang
@@ -9,10 +63,10 @@ $ini="
 $req=parse_ini_string($ini);
 $res=item($req,701);
 $res.=noitem(701,702);
-
+//$res.=items(801,20,175,15);
+//$res.="_C0 Money -- 111530z\n_L 0x21203490 0x0001B3AA\n";
 $out=file_put_contents('ULUS10391.item.ini',$res);
 echo $out."\n";
-
 
 /* bulk items */
 function items(
@@ -94,3 +148,4 @@ function item(array $req,int $start=1){
 function dx(int $d,int $l=4){
   return strtoupper(sprintf('%0'.$l.'s',dechex($d)));
 }
+
