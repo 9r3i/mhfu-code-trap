@@ -60,6 +60,12 @@ $ini="
 357=64
 ";
 
+
+$ini="
+; 64x Stone
+200=64
+";
+
 $req=parse_ini_string($ini);
 $res=item($req,701);
 $res.=noitem(701,702);
