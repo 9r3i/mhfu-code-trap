@@ -68,8 +68,8 @@ $ini="
 
 $req=parse_ini_string($ini);
 $res=item($req,701);
-$res.=noitem(701,702);
-//$res.=items(801,20,175,15);
+//$res.=noitem(701,712);
+//$res.=items(129,171,1,1);
 //$res.="_C0 Money -- 111530z\n_L 0x21203490 0x0001B3AA\n";
 $out=file_put_contents('ULUS10391.item.ini',$res);
 echo $out."\n";
@@ -99,7 +99,7 @@ function items(
   /* reverse codes */
   $res.="_C0 No Items at {$start}-{$t} in Box\n";
   $res.="_L 0x8119{$a} 0x{$l}0002\n";
-  $res.="_L 0x10000000 0x00000001\n";
+  $res.="_L 0x10000000 0x00000000\n";
   $res.="_L 0x8119{$b} 0x{$l}0004\n";
   $res.="_L 0x00000000 0x00000000\n";
   return $res;
