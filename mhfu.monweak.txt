@@ -1,0 +1,690 @@
+
+-----------------------------------------------------------
+Ariana's Monster Weakness Guide
+===========================================================
+
+Version 4.0
+Only GameFAQs is allowed to host this guide.
+USE Crtl+F to find your monster!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Here’s the format:
+
+MONSTER NAME - 		(duh!)
+Weak Spot: - 		which spot of the monster is weakest (Take that!)
+Elemental Weakness: - 	which element is best to use
+Shock: - 		can be shock trapped? (ZApp!)
+Pitfall: -		can be pitfall trapped? (Geronimo!)
+Flash: - 		can be flashed? (ooh I can't see ~.~)
+Sonic: - 		can be soniced? when? (ow my freaking ears!)
+Paralyze: - 		how long per paralyze? (Bzzztt)
+Poison: - 		How much damage per poisoning? (Arsenic)
+Sleep: - 		susceptible to sleep? (Yawwwn sleepy)
+Signal for Capture: - 	monsters tell for capture (take me home with you!)
+Shiny: -		how to make the monster drop shinies (Ohhhh Shiny!)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+So please enjoy my guide!  It's your one-stop shop for monster info.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+____________________________________________________________
+
+YIAN KUT-KU (red + blue)
+____________________________________________________________
+Weak Spot:		Cut: Wing, Impact: Head
+Elemental Weakness:	Overall-Water or Ice ; Head-Ice; Wing-Thunder
+Shock:			YES
+Pitfall:		YES
+Flash:			YES
+Sonic:			YES
+Paralyze:		YES, 10 seconds (15 seconds for blue)
+Poison:			YES, 240 HP total
+Sleep:			YES
+Signal for Capture:	Ears fold back
+Shiny:			Throw a sonic bomb or crag shot it
+____________________________________________________________
+
+GYPCEROS (regular + purple)
+____________________________________________________________
+Weak Spot:		Cut: Tail, Impact: Head
+Elemental Weakness:	Fire
+Shock:			NO
+Pitfall:		YES
+Flash:			NO
+Sonic:			NO
+Paralyze:		YES, 10 seconds
+Poison:			YES, 240 HP total
+Sleep:			YES
+Signal for Capture:	Limps
+Shiny:			Sometimes when it awakes from fake death
+____________________________________________________________
+
+YIAN GARUGA
+____________________________________________________________
+Weak Spot:		Cut: Head, Impact: Head
+Elemental Weakness:	Water
+Shock:			YES
+Pitfall:		Yes, but Garuga must be unaware
+Flash:			YES
+Sonic:			NO
+Paralyze:		YES, 15 seconds
+Poison:			NO
+Sleep:			YES
+Signal for Capture:	Limps
+Shiny:			Pitfall it
+____________________________________________________________
+
+HYPNOC -or- HYPNOCATRICE
+____________________________________________________________
+Weak Spot:		Cut: Head, Impact: Head
+Elemental Weakness:	Fire
+Shock:			YES
+Pitfall:		YES
+Flash:			YES
+Sonic:			NO
+Paralyze:		YES, 10 seconds
+Poison:			YES, 240 HP total
+Sleep:			YES
+Signal for Capture:	Back feathers lay flat.  Limps
+Shiny:			Put it to sleep
+____________________________________________________________
+
+CEPHADROME
+____________________________________________________________
+Weak Spot:		Cut: Stomach, Impact: Stomach
+Elemental Weakness:	Ice
+Shock:			YES, 2x duration
+Pitfall:		NO
+Flash:			NO
+Sonic:			YES, while in sand
+Paralyze:		YES, 15 seconds
+Poison:			YES, 120 HP total
+Sleep:			YES
+Signal for Capture:	Fin folds down
+Shiny:			Sonic it out of the sand
+____________________________________________________________
+
+PLESIOTH (regular + green)
+____________________________________________________________
+Weak Spot:		Cut: Stomach, Impact: Stomach
+Elemental Weakness:	Thunder -or- Fire
+Shock:			YES, 2x duration
+Pitfall:		YES
+Flash:			NO
+Sonic:			YES, when in water; will put it in rage
+Paralyze:		YES, 10 seconds
+Poison:			YES, 120 HP total (360 HP for Green)
+Sleep:			YES
+Signal for Capture:	Fins and back and head lay down
+Shiny:			Fish it out of the water with a Frog
+____________________________________________________________
+
+VOLGANOS -or- LAVASIOTH
+____________________________________________________________
+Weak Spot:		All spots nearly equal
+Elemental Weakness:	Water
+Shock:			YES, 2x duration
+Pitfall:		YES
+Flash:			NO
+Sonic:			NO
+Paralyze:		YES, 10 seconds
+Poison:			YES, 100 HP total
+Sleep:			YES
+Signal for Capture:	The glossy coating on it’s body goes away
+Shiny:			Knock it out (KO)
+____________________________________________________________
+
+CONGALALA
+____________________________________________________________
+Weak Spot:		Cut: Head, Impact: Head
+Elemental Weakness:	Fire
+Shock:			YES
+Pitfall:		YES
+Flash:			YES
+Sonic:			NO
+Paralyze:		YES, 10 seconds
+Poison:			YES
+Sleep:			YES, 240 HP total
+Signal for Capture:	Looks around and sniffs, then retreats to sleeping area.
+Shiny:			Break its tail while its holding mushroom/bone/ore
+____________________________________________________________
+
+GREEN CONGALALA -or- EMERALD CONGALALA
+____________________________________________________________
+Weak Spot:		Cut: Tail (Body is comparable), Impact: Head
+Elemental Weakness:	Ice
+Shock:			YES
+Pitfall:		YES
+Flash:			YES
+Sonic:			NO
+Paralyze:		YES, 10 seconds
+Poison:			YES, 240 HP total
+Sleep:			YES
+Signal for Capture:	Looks around and sniffs, then retreats to sleeping area.
+Shiny:			Break its tail while its holding mushroom/bone/ore
+____________________________________________________________
+
+BLANGONGA
+____________________________________________________________
+Weak Spot:		Cut: Head, Impact: Head
+Elemental Weakness:	Fire
+Shock:			YES
+Pitfall:		YES
+Flash:			YES
+Sonic:			NO
+Paralyze:		YES, 10 seconds
+Poison:			YES, 240 HP total
+Sleep:			YES
+Signal for Capture:	Limps
+Shiny:			Let it finish eating without seeing you
+(You need Fire Element to break the fangs)
+____________________________________________________________
+
+BROWN BLANGONGA -or- COPPER BLANGONGA
+____________________________________________________________
+Weak Spot:		Cut: Head, Impact: Head
+Elemental Weakness:	Ice
+Shock:			YES
+Pitfall:		YES
+Flash:			YES
+Sonic:			NO
+Paralyze:		YES, 10 seconds
+Poison:			YES, 240 HP total
+Sleep:			YES
+Signal for Capture:	Limps
+Shiny:			Let it finish eating without seeing you
+(You need Ice Element to break the fangs)
+____________________________________________________________
+
+KHEZU
+____________________________________________________________
+Weak Spot:		Cut: Neck, Impact: Head
+Elemental Weakness:	Fire
+Shock:			YES
+Pitfall:		YES
+Flash:			NO
+Sonic:			NO
+Paralyze:		YES, 5 seconds
+Poison:			YES, 60 HP total
+Sleep:			YES
+Signal for Capture:	Stops moving completely
+Shiny:			Will drop one in saliva when hanging from ceiling
+____________________________________________________________
+
+RED KHEZU
+____________________________________________________________
+Weak Spot:		Cut: Neck, Impact: Head
+Elemental Weakness:	Water
+Shock:			YES
+Pitfall:		YES
+Flash:			NO
+Sonic:			NO
+Paralyze:		YES, 5 seconds
+Poison:			YES, 120 HP total
+Sleep:			YES
+Signal for Capture:	Stops moving completely
+Shiny:			Will drop one in saliva when hanging from ceiling
+____________________________________________________________
+
+DAIMYO HERMITAUR
+____________________________________________________________
+Weak Spot: 		Cut: Head, Impact: Head (Body is comparable)
+Elemental Weakness:	Thunder (Fire is comparable)
+Shock: 			YES
+Pitfall: 		NO
+Flash: 			NO
+Sonic: 			YES, when it guards
+Paralyze: 		YES, 10 seconds
+Poison: 		YES, 240 HP total
+Sleep: 			YES
+Signal for Capture:	Breathes hard and foams purple bubbles
+Shiny:			Let it finish eating
+(You need Impact Damage to break the shell)
+____________________________________________________________
+
+PURPLE DAIMYO HERMITAUR -or- PLUM DAIMYO HERMITAUR
+____________________________________________________________
+Weak Spot: 		Cut: Head, Impact: Head (Body is comparable)
+Elemental Weakness: 	Ice
+Shock: 			YES
+Pitfall:		NO
+Flash: 			NO
+Sonic:			YES, when it guards
+Paralyze: 		YES, 10 seconds
+Poison: 		YES, 240 HP total
+Sleep: 			YES
+Signal for Capture: 	Breathes hard and foams purple bubbles
+Shiny: 			Let it finish eatin
+(You need Impact Damage to break the shell)
+____________________________________________________________
+
+SHOGUN CEANATAUR
+____________________________________________________________
+Weak Spot: 		Cut: Head, Impact: Head (Body is comparable)
+Elemental Weakness: 	Thunder
+Shock: 			YES
+Pitfall: 		NO
+Flash: 			NO
+Sonic: 			NO
+Paralyze: 		YES, 10 seconds
+Poison: 		YES, 240 HP total
+Sleep: 			YES
+Signal for Capture: 	Breathes hard
+Shiny: 			Track it down while it's getting a new shell
+(Once you break a claw it stays in rage for the rest of the battle)
+____________________________________________________________
+
+RED SHOGUN CEANATAUR -or- TERRA SHOGUN CEANATAUR
+____________________________________________________________
+Weak Spot: 		Cut: Head, Impact: Head (Body is comparable)
+Elemental Weakness: 	Thunder
+Shock: 			YES
+Pitfall: 		NO
+Flash: 			NO
+Sonic: 			NO
+Paralyze: 		YES, 10 seconds
+Poison: 		YES, 240 HP total
+Sleep: 			YES
+Signal for Capture: 	Breathes hard
+Shiny: 			Track it down while it's getting a new shell
+(Once you break a claw it stays in rage for the rest of the battle)
+____________________________________________________________
+
+RATHALOS
+____________________________________________________________
+Weak Spot:		Cut: Head, Impact: Head
+Elemental Weakness:	Ice
+Shock:			YES
+Pitfall:		YES
+Flash:			YES
+Sonic:			NO
+Paralyze:		YES, 10 seconds
+Poison:			YES, 240 HP total
+Sleep:			YES
+Signal for Capture:	Limps
+Shiny:			Stagger or flash while in air. Wake it up
+____________________________________________________________
+
+AZURE RATHALOS
+____________________________________________________________
+Weak Spot:		Cut: Head, Impact: Head
+Elemental Weakness:	Dragon
+Shock:			YES
+Pitfall:		YES
+Flash:			YES
+Sonic:			NO
+Paralyze:		YES, 10 seconds
+Poison:			YES, 360 HP total
+Sleep:			YES
+Signal for Capture:	Limps
+Shiny:			Stagger or flash while in air. Wake it up
+____________________________________________________________
+
+SILVER RATHALOS
+____________________________________________________________
+Weak Spot:		Cut: Wing, Impact: Wing
+Elemental Weakness:	Thunder -or- Water
+Shock:			YES
+Pitfall:		YES
+Flash:			YES
+Sonic:			NO
+Paralyze:		YES, 10 seconds
+Poison:			YES, 420 HP total
+Sleep:			YES
+Signal for Capture:	Limps
+Shiny:			Stagger or flash while in air. Wake it up
+____________________________________________________________
+
+RATHIAN
+____________________________________________________________
+Weak Spot:		Cut: Head, Impact: Head
+Elemental Weakness:	Dragon
+Shock:			YES
+Pitfall:		YES
+Flash:			YES
+Sonic:			NO
+Paralyze:		YES, 10 seconds
+Poison:			YES, 240 HP total
+Sleep:			YES
+Signal for Capture:	Limps
+Shiny:			Gets trapped
+
+
+____________________________________________________________
+
+
+
+PINK RATHIAN
+____________________________________________________________
+Weak Spot:		Cut: Head, Impact: Head
+Elemental Weakness:	Dragon
+Shock:			YES
+Pitfall:		YES
+Flash:			YES
+Sonic:			NO
+Paralyze:		YES, 10 seconds
+Poison:			YES, 360 HP total
+Sleep:			YES
+Signal for Capture:	Limps
+Shiny:			Gets trapped
+____________________________________________________________
+
+GOLD RATHIAN
+____________________________________________________________
+Weak Spot:		Cut: Wing, Impact: Wing
+Elemental Weakness:	Thunder
+Shock:			YES
+Pitfall:		YES
+Flash:			YES
+Sonic:			NO
+Paralyze:		YES, 10 seconds
+Poison:			YES, 360 HP total
+Sleep:			YES
+Signal for Capture:	Limps
+Shiny:			Gets trapped
+____________________________________________________________
+
+BASARIOS
+____________________________________________________________
+Weak Spot:		Cut: Stomach, Impact: Stomach; 3x damage when broken
+Elemental Weakness:	Water -or- Dragon
+Shock:			YES
+Pitfall:		YES
+Flash:			YES
+Sonic:			NO
+Paralyze:		YES, 15 seconds
+Poison:			YES, 240 HP total
+Sleep:			YES
+Signal for Capture:	Limps
+Shiny:			Disturb it when it's pretending to be a rock
+____________________________________________________________
+
+GRAVIOS
+____________________________________________________________
+Weak Spot:		Cut: Stomach, Impact: Stomach; ~3x damage when broken
+Elemental Weakness:	Water -or- Dragon
+Shock:			YES
+Pitfall:		YES
+Flash:			YES
+Sonic:			NO
+Paralyze:		YES, 15 seconds
+Poison:			YES, 240 HP total
+Sleep:			YES
+Signal for Capture:	Limps
+Shiny:			Wake it up from sleeping
+____________________________________________________________
+
+BLACK GRAVIOS
+____________________________________________________________
+Weak Spot:		Cut: Stomach, Impact: Stomach; ~3x damage when broken
+Elemental Weakness:	Water
+Shock:			YES
+Pitfall:		YES
+Flash:			YES
+Sonic:			NO
+Paralyze:		YES, 15 seconds
+Poison:			YES, 480 HP total
+Sleep:			YES
+Signal for Capture:	Limps
+Shiny:			Wake it up from sleeping
+____________________________________________________________
+
+MONOBLOS (regular + white)
+____________________________________________________________
+Weak Spot:		Cut: Tail, Impact: Neck (Tail is comparable)
+Elemental Weakness:	Thunder
+Shock:			YES
+Pitfall:		NO
+Flash:			YES
+Sonic:			YES, when underground and NOT in rage
+Paralyze:		YES, 15 seconds
+Poison:			YES, 240 HP total (360 HP for white)
+Sleep:			YES
+Signal for Capture:	1 hit puts it in rage, Limps
+Shiny:			Gets its horn stuck in the wall
+____________________________________________________________
+
+DIABLOS (regular + black)
+____________________________________________________________
+Weak Spot:		Cut: Tail, Impact: Neck (Tail is comparable)
+Elemental Weakness:	Ice
+Shock:			YES
+Pitfall:		NO
+Flash:			YES
+Sonic:			YES, when underground and NOT in rage
+Paralyze:		YES, 15 seconds
+Poison:			YES, 240 HP total (360 HP for black)
+Sleep:			YES
+Signal for Capture:	1 hit puts it in rage, Limps
+Shiny:			Gets its horn(s) stuck in wall
+____________________________________________________________
+
+TIGREX
+____________________________________________________________
+Weak Spot: 		Cut: Head, Impact: Head
+Elemental Weakness: 	Thunder
+Shock: 			YES
+Pitfall: 		YES
+Flash: 			YES
+Sonic: 			NO
+Paralyze:		YES, 10 seconds
+Poison: 		YES, 240 HP total
+Sleep: 			YES
+Signal for Capture: 	1 hit puts it in rage, Limps
+Shiny: 			Gets its teeth stuck in the wall
+____________________________________________________________
+
+NARUGA KARUGA -or- NARGACUGA
+____________________________________________________________
+Weak Spot: 		Cut: Head, Impact: Head
+Elemental Weakness: 	Fire -or- Thunder
+Shock: 			YES
+Pitfall: 		YES, must be enraged
+Flash: 			YES
+Sonic: 			YES, when it’s in prowler stance; will put into rage
+Paralyze: 		YES, 10 seconds
+Poison: 		YES, 240 HP total
+Sleep: 			YES
+Signal for Capture: 	1 hit puts it in rage, Limps
+Shiny: 			Sonic it while in prowler stance
+____________________________________________________________
+
+RAJANG
+____________________________________________________________
+Weak Spot:		Cut: Head, Impact: Head
+Elemental Weakness:	Ice
+Shock:			YES
+Pitfall:		YES, must be gold without sparks
+Flash:			YES
+Sonic:			NO
+Paralyze:		YES, 10 seconds
+Poison:			YES, 240 HP total
+Sleep:			YES
+Signal for Capture:	Limps
+Shiny:			none
+____________________________________________________________
+
+KIRIN
+____________________________________________________________
+Weak Spot:		Cut: Horn, Impact: Horn
+Elemental Weakness:	Fire or Water (All elements quite innefective)
+Shock:			NO
+Pitfall:		NO
+Flash:			NO
+Sonic:			NO
+Paralyze:		NO
+Poison:			YES, 60 HP total
+Sleep:			YES
+Signal for Capture:	Cannot be captured
+Shiny:			none
+____________________________________________________________
+
+AKANTOR
+____________________________________________________________
+Weak Spot:		Cut: Head, Impact: Head
+Elemental Weakness:	Dragon (somewhat weak to Thunder)
+Shock:			NO
+Pitfall:		NO
+Flash:			YES
+Sonic:			YES, right before it's wind beam attack
+Paralyze:		YES, 10 seconds
+Poison:			YES, 240 HP total
+Sleep:			NO
+Signal for Capture:	Cannot be captured
+Shiny:			none
+____________________________________________________________
+
+UCAMULBAS -or- UKANLOS
+____________________________________________________________
+Weak Spot:		Cut: Head, Impact: Head
+Elemental Weakness:	Fire (somewhat weak to Dragon and Thunder)
+Shock:			NO
+Pitfall:		NO
+Flash:			YES
+Sonic:			YES, immediately before the ice beam
+Paralyze:		YES, 10 seconds
+Poison:			YES, 240 HP total
+Sleep:			NO
+Signal for Capture:	Cannot be captured
+Shiny:			none
+____________________________________________________________
+
+KUSHALA DAORA
+____________________________________________________________
+Weak Spot:		Cut: Head, Impact: Head
+Elemental Weakness:	Dragon -or- Thunder
+Shock:			NO
+Pitfall:		NO
+Flash:			YES
+Sonic:			NO
+Paralyze:		YES, 20 seconds
+Poison:			YES, 288 HP total
+Sleep:			YES
+Signal for Capture:	Cannot be captured
+Shiny:			When it enters rage or reactivates wind shield
+____________________________________________________________
+
+CHAMELEOS
+____________________________________________________________
+Weak Spot:		Cut: Head, Impact: Head
+Elemental Weakness:	Fire -or- Dragon
+Shock:			NO
+Pitfall:		NO
+Flash:			YES
+Sonic:			YES, when invisible and aware
+Paralyze:		YES, 10 seconds
+Poison:			YES, 240 HP total
+Sleep:			YES
+Signal for Capture:	Cannot be captured
+Shiny:			Sonic it successfully
+____________________________________________________________
+
+LUNASTRA + TEOSTRA
+____________________________________________________________
+Weak Spot:		Cut: Head/Neck, Impact: Head/Neck/Stomach
+Elemental Weakness:	Dragon
+Shock:			NO
+Pitfall:		NO
+Flash:			YES
+Sonic:			NO
+Paralyze:		YES, 15 seconds
+Poison:			YES, 300 HP total
+Sleep:			YES
+Signal for Capture:	Cannot be captured
+Shiny:			When they scream and reactivate the fire aura
+(You need at least 1 point of Dragon dealt to the horn to be able to break it.
+This minimum of 1 point of dragon damage must be done when Teo/Luna are below
+60% of their max health.)
+____________________________________________________________
+
+LAO SHAN LUNG (red + blue)
+____________________________________________________________
+Weak Spot:		Cut: Stomach, Impact: Stomach
+Elemental Weakness:	Dragon -or - Fire
+Shock:			NO
+Pitfall:		NO
+Flash:			NO
+Sonic:			NO
+Paralyze:		NO
+Poison:			NO
+Sleep:			NO
+Signal for Capture:	Cannot be captured
+Shiny:			none
+____________________________________________________________
+
+SHEN GAOREN
+____________________________________________________________
+Weak Spot:		Cut: Inside Shell, Impact: Inside Shell
+Elemental Weakness:	Dragon
+Shock:			NO
+Pitfall:		NO
+Flash:			NO
+Sonic:			NO
+Paralyze:		NO
+Poison:			NO
+Sleep:			NO
+Signal for Capture:	Cannot be captured
+Shiny:			none
+____________________________________________________________
+
+YAMA TSUKAMI
+____________________________________________________________
+Weak Spot:		Cut: Mouth, Impact: Mouth
+Elemental Weakness:	Dragon -or - Ice
+Shock:			NO
+Pitfall:		NO
+Flash:			NO
+Sonic:			NO
+Paralyze:		NO
+Poison:			NO
+Sleep:			NO
+Signal for Capture:	Cannot be captured
+Shiny:			Throw tranq bombs during vortex attack to make it fall
+____________________________________________________________
+
+FATALIS
+____________________________________________________________
+Weak Spot:		Cut: Face, Impact: Face
+Elemental Weakness:	Dragon
+Shock:			NO
+Pitfall:		NO
+Flash:			NO
+Sonic:			NO
+Paralyze:		YES, 10 seconds
+Poison:			YES, 120 HP total
+Sleep:			YES
+Signal for Capture:	Cannot be captured
+Shiny:			none
+____________________________________________________________
+
+CRIMSON FATALIS
+____________________________________________________________
+Weak Spot:		Cut: Face, Impact: Face
+Elemental Weakness:	Dragon
+Shock:			NO
+Pitfall:		NO
+Flash:			NO
+Sonic:			NO
+Paralyze:		YES, 10 seconds
+Poison:			YES, 120 HP total
+Sleep:			YES
+Signal for Capture:	Cannot be captured
+Shiny:			none
+____________________________________________________________
+
+WHITE FATALIS
+____________________________________________________________
+Weak Spot:		Cut: Face, Impact: Face
+Elemental Weakness:	Dragon
+Shock:			NO
+Pitfall:		NO
+Flash:			NO
+Sonic:			NO
+Paralyze:		YES, 10 seconds
+Poison:			YES, 120 HP total
+Sleep:			YES
+Signal for Capture:	Cannot be captured
+Shiny:			none
+
+

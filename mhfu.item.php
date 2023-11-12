@@ -62,8 +62,8 @@ $ini="
 
 
 $ini="
-; 64x Stone
-200=64
+; 15x of XXX
+388=15
 ";
 
 $req=parse_ini_string($ini);
