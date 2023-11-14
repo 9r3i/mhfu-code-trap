@@ -62,8 +62,8 @@ $ini="
 
 
 $ini="
-; 15x of XXX
-388=15
+; XXX = 5
+557=5
 ";
 
 $req=parse_ini_string($ini);
