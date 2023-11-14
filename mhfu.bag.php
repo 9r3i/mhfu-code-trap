@@ -1,6 +1,5 @@
 <?php
 $items=<<<EOD
-152=Gourmet BBQ Spit
 39=Powertalon
 41=Armortalon
 38=Powercharm
@@ -8,29 +7,33 @@ $items=<<<EOD
 6=Alchemy Book
 5=Combo Book 5
 4=Combo Book 4
-
 3=Combo Book 3
+
 2=Combo Book 2
 1=Combo Book 1
-32=Ancient Potion
+152=Gourmet BBQ Spit
 72=Farcaster
+
 65=Flash Bomb
 14=Mega Juice
-21=Cool Drink
-
 153=Whetstone
+32=Ancient Potion
+
 74=Traq Bomb
 79=Shock Trap
 66=Sonic Bomb
 59=Poison Knife
-156=Flute
+
 16=Mega Demondrug
 19=Mega Armorskin
+
 EOD;
 $qt=[
   1,1,1,1,1,1,1,1,
-  1,1,1,1,1,5,5,5,
-  20,8,1,10,5,1,5,5,
+  1,1,1,1,
+  5,5,20,1,
+  8,1,10,5,
+  5,5,
 ];
 $qk=0;
 $bagitems=parse_ini_string($items);
